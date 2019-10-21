@@ -330,8 +330,8 @@ module.exports = function() {
       text =
         "São <b>" +
         filteredData.length +
-        "</b> candidatos a <b>" +
-        filters.cargo.replace("-", " ") +
+        " " +
+        filters.cargo_pl +
         "</b> " +
         filters.estado_prep +
         " <b>" +
