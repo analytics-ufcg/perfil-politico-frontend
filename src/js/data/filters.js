@@ -147,13 +147,13 @@ module.exports = [
         nome: "Deputado Federal",
         feminino: "Deputada Federal",
         plural: "Deputados Federais"
-      },
-      {
-        valor: "senador",
-        nome: "Senador",
-        feminino: "Senadora",
-        plural: "Senadores"
       }
+      // {
+      //   valor: "senador",
+      //   nome: "Senador",
+      //   feminino: "Senadora",
+      //   plural: "Senadores"
+      // }
     ]
   }
 ];
