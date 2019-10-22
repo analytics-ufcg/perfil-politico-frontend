@@ -147,12 +147,35 @@ module.exports = [
         nome: "Deputado Federal",
         feminino: "Deputada Federal",
         plural: "Deputados Federais"
+      },
+      {
+        valor: "deputado-estadual",
+        nome: "Deputado Estadual",
+        feminino: "Deputada Estadual",
+        plural: "Deputados Estaduais"
       }
+      // {
+      //   valor: "deputado-distrital",
+      //   nome: "Deputado Distrital",
+      //   feminino: "Deputada Distrital",
+      //   plural: "Deputados Distritais"
+      // },
       // {
       //   valor: "senador",
       //   nome: "Senador",
       //   feminino: "Senadora",
       //   plural: "Senadores"
+      // },
+      // {
+      //   valor: "governador",
+      //   nome: "Governador",
+      //   feminino: "Governadora",
+      //   plural: "Governadores"
+      // },
+      // {
+      //   valor: "presidente",
+      //   nome: "Presidente",
+      //   feminino: "Presidente"
       // }
     ]
   }
